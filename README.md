@@ -1,1 +1,1 @@
-# opencousrse
+## opencousrse - notes and exercises
